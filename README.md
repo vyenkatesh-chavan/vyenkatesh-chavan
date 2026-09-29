@@ -79,6 +79,22 @@ Building scalable applications, reliable backend systems, and intelligent softwa
 - Reinforcement Learning fundamentals
 - Data Analysis
 
+  ### 🌐 Full Stack Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite,nodejs,express,mongodb,mysql,git,github,postman" alt="Full Stack Technologies"/>
+</p>
+
+- Frontend development using React.js and Tailwind CSS
+- Backend development using Node.js and Express.js
+- REST API design and integration
+- Database management using MongoDB and MySQL
+- Authentication and authorization using JWT
+- API testing using Postman
+- Version control and collaboration using Git and GitHub
+- Responsive web application development
+- Full Stack application deployment and debugging
+
 <!-- ===================== CURRENT FOCUS ===================== -->
 
 ## 🎯 Current Focus
