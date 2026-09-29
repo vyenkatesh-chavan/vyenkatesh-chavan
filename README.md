@@ -165,31 +165,6 @@ A web application designed to simplify turf discovery and sports ground booking.
 
 </div>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=vyenkatesh-chavan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  alt="GitHub Statistics"
-  width="49%"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyenkatesh-chavan&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Most Used Programming Languages"
-  width="49%"
-/>
-
-<br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=vyenkatesh-chavan&theme=tokyonight&hide_border=true"
-  alt="GitHub Contribution Streak"
-  width="70%"
-/>
-
-</div>
 
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
 
