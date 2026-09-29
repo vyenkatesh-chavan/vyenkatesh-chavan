@@ -135,23 +135,6 @@ A web application designed to connect farmers and customers through an online ag
 
 **Technologies:** React, Tailwind CSS, Node.js, Express.js, MongoDB
 
-### 4. AI Test Case Generator
-
-A developer tool that uses a GitHub repository as input to analyze source code and generate test case suggestions using an AI model.
-
-**Technologies:** React, Node.js, GitHub API, Generative AI
-
-### 5. Fertilizer Recommendation System
-
-A Machine Learning application that recommends fertilizer based on agricultural input features.
-
-**Technologies:** Python, Flask, React, Scikit-learn, Machine Learning
-
-### 6. Turf Booking Platform
-
-A web application designed to simplify turf discovery and sports ground booking.
-
-**Technologies:** React, Node.js, Express.js, MongoDB
 
 <!-- ===================== GITHUB STATS ===================== -->
 
