@@ -136,23 +136,28 @@ A web application for discovering and booking sports turfs through an online int
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vyenkatesh-chavan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=vyenkatesh-chavan&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Statistics"
+  width="49%"
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyenkatesh-chavan&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyenkatesh-chavan&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Most Used Languages"
+  width="49%"
+/>
 
-<img src="https://streak-stats.demolab.com?user=vyenkatesh-chavan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img
+  src="https://streak-stats.demolab.com?user=vyenkatesh-chavan&theme=tokyonight&hide_border=true"
+  alt="GitHub Contribution Streak"
+  width="70%"
+/>
 
 </div>
 
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
 
-## 🐍 Contribution Graph
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vyenkatesh-chavan/vyenkatesh-chavan/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
-
-</div>
 
 <!-- ===================== CONNECT ===================== -->
 
