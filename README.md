@@ -1,26 +1,28 @@
 
-
 <!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
 # Hi, I'm Vyenkatesh Chavan 👋
 
-### Backend & Full Stack Developer | AI/ML Enthusiast
+### Backend Developer | Full Stack Developer | AI/ML Enthusiast
 
-Building scalable web applications and exploring intelligent systems through Machine Learning and Reinforcement Learning.
+Building scalable applications, reliable backend systems, and intelligent software solutions.
 
-<a href="https://vyenkatesh-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/vyenkatesh-chavan-54813a2b8">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:vyankateshc21@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Development;Full+Stack+Web+Development;Machine+Learning+%26+AI;Building+Projects+That+Solve+Problems" alt="Typing SVG" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3" width="100%" />
+<p>
+  <a href="https://github.com/vyenkatesh-chavan">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://github.com/vyenkatesh-chavan?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" alt="Repositories"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
 </div>
 
@@ -28,13 +30,13 @@ Building scalable web applications and exploring intelligent systems through Mac
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering student at **Pune Institute of Computer Technology (PICT)**
-- 💻 Interested in Backend Development, Full Stack Development, and AI/ML
-- ⚙️ Experienced in building REST APIs, database-driven applications, and web solutions
-- 🤖 Exploring Machine Learning, Reinforcement Learning, and Data Analysis
-- 🚀 Focused on writing maintainable code and solving practical problems
-- 🌱 Currently learning **Java, Spring Boot, and advanced backend development**
-- 🤝 Interested in collaborating on impactful software and AI projects
+- 🎓 Computer Engineering student at Pune Institute of Computer Technology (PICT).
+- 💻 Interested in Backend Engineering and Full Stack Development.
+- ⚙️ Building REST APIs, authentication systems, and database-driven applications.
+- 🤖 Exploring Machine Learning, Artificial Intelligence, and Reinforcement Learning.
+- 🧠 Practicing Data Structures and Algorithms to improve problem-solving skills.
+- 🌱 Currently learning Java, Spring Boot, and advanced backend development.
+- 🚀 Interested in developing practical, secure, and maintainable software.
 
 <!-- ===================== TECH STACK ===================== -->
 
@@ -43,90 +45,95 @@ Building scalable web applications and exploring intelligent systems through Mac
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" alt="Programming Languages"/>
 </p>
 
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" alt="Frontend Technologies"/>
 </p>
 
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Backend Technologies"/>
 </p>
 
-### Databases & Tools
+### Databases and Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,vscode,docker" alt="Databases and Tools"/>
 </p>
 
 ### AI / Machine Learning
 
-- Machine Learning and model evaluation
-- Reinforcement Learning fundamentals
-- Data Analysis and preprocessing
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+</p>
+
+- Machine Learning fundamentals
+- Data preprocessing and model evaluation
 - NumPy and Pandas
 - Scikit-learn
-- Jupyter Notebook
+- Reinforcement Learning fundamentals
+- Data Analysis
 
-<!-- ===================== EXPERIENCE ===================== -->
+<!-- ===================== CURRENT FOCUS ===================== -->
 
-## 💼 Experience
+## 🎯 Current Focus
 
-### Backend Developer Intern — Glory Quick IT Solutions
+- Strengthening Java and Spring Boot fundamentals.
+- Building scalable backend services and REST APIs.
+- Improving DSA and SQL problem-solving skills.
+- Exploring practical applications of AI and Machine Learning.
+- Learning software design principles and secure application development.
 
-- Worked on backend development and REST API implementation.
-- Contributed to CRM-related features, policy submissions, and incentive workflows.
-- Worked on request validation and application business logic.
-- Gained practical experience in backend development and debugging.
-
-<!-- ===================== PROJECTS ===================== -->
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
 ## 🚀 Featured Projects
 
-### 1. FinalBid — Online Bidding Platform
+### 1. FinalBid — Bidding Platform
 
-A bidding platform designed for project posting, bidding, and user interactions, with an ML-powered chatbot for project price prediction.
+A bidding platform focused on project posting, bidding, and user interactions, with an ML-powered chatbot for project price prediction.
 
 **Technologies:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Machine Learning
 
-[![GitHub](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vyenkatesh-chavan/finalbid)
+<a href="https://github.com/vyenkatesh-chavan/finalbid">
+  <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github" alt="FinalBid Repository"/>
+</a>
 
-### 2. Resider — Secure Password Manager
+### 2. Resider — Password Manager
 
-A password management application focused on secure vault access, password generation, authentication, and controlled password access.
+A password management application focused on password generation, secure vault storage, authentication, and controlled password access.
 
 **Technologies:** React, Next.js, Node.js, Express.js, MongoDB, Encryption
 
-[![GitHub](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vyenkatesh-chavan)
+<a href="https://resider-password-manager.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-Visit_App-0A7F5A?style=for-the-badge&logo=vercel" alt="Resider Live Demo"/>
+</a>
 
-### 3. Daily Vegies — Farm-to-Table Platform
+### 3. Farm-to-Table Marketplace
 
-A web application connecting farmers and customers through a digital marketplace for agricultural products.
+A web application designed to connect farmers and customers through an online agricultural marketplace.
 
 **Technologies:** React, Tailwind CSS, Node.js, Express.js, MongoDB
 
-### 4. Loan Approval Prediction
+### 4. AI Test Case Generator
 
-A Machine Learning project that predicts loan approval outcomes based on applicant and financial features.
+A developer tool that uses a GitHub repository as input to analyze source code and generate test case suggestions using an AI model.
 
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, Machine Learning
+**Technologies:** React, Node.js, GitHub API, Generative AI
 
-**Reported model accuracy:** 82%
+### 5. Fertilizer Recommendation System
 
-### 5. Stock Price Prediction Using Reinforcement Learning
+A Machine Learning application that recommends fertilizer based on agricultural input features.
 
-An experimental project exploring the application of Reinforcement Learning techniques to stock market decision-making.
+**Technologies:** Python, Flask, React, Scikit-learn, Machine Learning
 
-**Technologies:** Python, Reinforcement Learning, Data Analysis, NumPy, Pandas
+### 6. Turf Booking Platform
 
-### 6. e-Turf — Turf Booking Platform
-
-A web application for discovering and booking sports turfs through an online interface.
+A web application designed to simplify turf discovery and sports ground booking.
 
 **Technologies:** React, Node.js, Express.js, MongoDB
 
@@ -137,16 +144,18 @@ A web application for discovering and booking sports turfs through an online int
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=vyenkatesh-chavan&show_icons=true&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=vyenkatesh-chavan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
   alt="GitHub Statistics"
   width="49%"
 />
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyenkatesh-chavan&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Most Used Languages"
+  alt="Most Used Programming Languages"
   width="49%"
 />
+
+<br/>
 
 <img
   src="https://streak-stats.demolab.com?user=vyenkatesh-chavan&theme=tokyonight&hide_border=true"
@@ -156,24 +165,34 @@ A web application for discovering and booking sports turfs through an online int
 
 </div>
 
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
 
+## 🐍 Contribution Graph
 
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/vyenkatesh-chavan/vyenkatesh-chavan/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake Animation"
+  width="100%"
+/>
+
+</div>
 
 <!-- ===================== CONNECT ===================== -->
 
 ## 🤝 Let's Connect
 
-I'm interested in discussing software engineering, backend systems, Machine Learning, and collaborative projects.
+I'm interested in software engineering, backend development, AI/ML, and collaborative projects.
 
 <div align="center">
 
-<a href="https://github.com/vyenkatesh-chavan">GitHub</a> •
-<a href="https://www.linkedin.com/in/vyenkatesh-chavan-54813a2b8">LinkedIn</a> •
-<a href="https://vyenkatesh-portfolio.vercel.app">Portfolio</a> •
-<a href="mailto:vyankateshc21@gmail.com">Email</a>
+<a href="https://github.com/vyenkatesh-chavan">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
